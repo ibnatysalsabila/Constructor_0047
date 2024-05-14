@@ -27,4 +27,10 @@ public:
 		nim = iNim;
 		nama = iNama;
 	};
+	void cetak() {
+		cout << "NIM = " << nim << endl;
+		cout << "NAMA= " << nama << endl;
+		cout << endl;
+	};
+
 	
